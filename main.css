@@ -1,0 +1,41 @@
+body{
+  height: 100vh;
+  background: linear-gradient(to top, #efd4f0 50%, #e98ab9 90%) no-repeat
+  }
+  header {
+      background-color: white; /* Green */
+      color: black;
+      padding: 20px 0;
+      text-align: center;
+  }
+  
+  .logo {
+      font-size: 24px;
+      font-weight: bold;
+      text-transform: uppercase;
+  }
+  
+  nav {
+      margin-top: 10px;
+  }
+  
+  nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+  
+  nav ul li {
+      display: inline;
+      margin-right: 20px;
+  }
+  
+  nav ul li a {
+      color: black;
+      text-decoration: none;
+      font-size: 18px;
+  }
+  
+  nav ul li a:hover {
+      text-decoration: underline;
+  }

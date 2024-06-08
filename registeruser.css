@@ -1,0 +1,45 @@
+body{
+	height: 88vh;
+    background: linear-gradient(to top, #efd4f0 50%, #e98ab9 90%) no-repeat
+}
+.font_regis{
+	font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+	text-align: center;
+
+}
+.kotak_regis{
+    width:400px;
+    background: rgb(239, 243, 238);
+    margin: 80px auto;
+	padding: 30px 20px;
+    border-radius: 5px;
+}
+
+label{
+	font-size: 11pt;
+}
+ 
+.form_regis{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.button_register{
+	background: #f384ed;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+
+
+
+
+    
